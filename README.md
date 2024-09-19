@@ -11,7 +11,7 @@ Our mission is to maintain a climate conducive to harmonizing Islamically advise
 ---
 
 ### 🌐 Visit Our Website
-![Website]([https://msaucsd.com/](https://github.com/MSA-UCSD/website/blob/c89379d0da7b08558e545d85030462a99a1a2717/main_files/jav.png))
+![Website](https://github.com/MSA-UCSD/website/blob/c89379d0da7b08558e545d85030462a99a1a2717/main_files/jav.png)
 
 ---
 
