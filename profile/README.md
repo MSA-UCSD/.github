@@ -54,7 +54,8 @@ You can also reach out to us on Instagram!
 
 ### 🌍 **Stay Connected**  
 - **Website**: [MSA at UCSD](https://msaucsd.com)  
-- **Instagram**: [@msa_ucsd](https://instagram.com/msaucsd)  
+- **Instagram**: [@msaucsd](https://instagram.com/msaucsd)
+- **YouTube**: [@msa-ucsd](https://www.youtube.com/@msa-ucsd)  
 - **Email**: ucsdmsa@gmail.com
 
 ---
