@@ -1,6 +1,6 @@
 # 🌙 Muslim Student Association @ UC San Diego 🏫
 
-![UCSD Logo](https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png" alt="UCSD Logo" style="max-width: 100px;">
 
 ---
 
@@ -11,7 +11,7 @@ Our mission is to maintain a climate conducive to harmonizing Islamically advise
 ---
 
 ### 🌐 Visit Our Website
-![Website](https://github.com/MSA-UCSD/website/blob/c89379d0da7b08558e545d85030462a99a1a2717/main_files/jav.png)
+![msaucsd.com](msaucsd.com)
 
 ---
 
