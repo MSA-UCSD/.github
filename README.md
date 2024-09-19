@@ -1,6 +1,6 @@
 # 🌙 Muslim Student Association @ UC San Diego 🏫
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png" alt="UCSD Logo" style="max-width: 100px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/UCSD_logo.png" alt="UCSD Logo" style="max-width: 50px;">
 
 ---
 
