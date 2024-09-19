@@ -7,6 +7,7 @@
 **Welcome to the MSA @ UCSD GitHub Organization!**  
 
 🌟 **Advancing and retaining the Muslim presence in the academic sphere since 1988!**  
+
 Our mission is to maintain a climate conducive to harmonizing Islamically advised lifestyles with the lives of Muslims in the university and workforce.
 
 ---
