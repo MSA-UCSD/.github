@@ -29,9 +29,8 @@ Our mission is to maintain a climate conducive to harmonizing Islamically advise
 ---
 
 ### 📅 **Weekly Events**  
-* **📅 Monday:** Islamic Study Circle  
-* **📅 Wednesday:** Career Workshop  
-* **📅 Friday:** Jummah Prayers and Social Hour
+* **📅 Friday:** Jummah Prayers
+* **📅 Check the Calendar for Weekly Updated Events!**
 
 ---
 
@@ -46,16 +45,15 @@ Join one of our exciting committees:
 ---
 
 ### 🤲 **New Muslims**  
-If you're a new Muslim, welcome! Please check out the [New Muslim Guide](https://newmuslimguide.com) for more resources.  
+If you're a new Muslim, welcome! Please check out the [New Muslim Guide](https://msaucsd.com/about#new) for more resources.  
 You can also reach out to us on Instagram!
 
 ---
 
 ### 🌍 **Stay Connected**  
-- **Website**: [MSA at UCSD](https://yourwebsitehere.com)  
-- **Instagram**: [@msa_ucsd](https://instagram.com/msa_ucsd)  
-- **Email**: contact@msa_ucsd.com  
-- **Join Us on Slack**: [MSA UCSD Slack](https://join.slack.com/t/msa_ucsd)
+- **Website**: [MSA at UCSD](https://msaucsd.com)  
+- **Instagram**: [@msa_ucsd](https://instagram.com/msaucsd)  
+- **Email**: ucsdmsa@gmail.com
 
 ---
 
